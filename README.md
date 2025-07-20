@@ -34,9 +34,9 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 1. Clone the repository:
 
-git clone ``` https://github.com/your-username/doctor-appointment-app.git
+git clone ``` https://github.com/your-username/doctor-appointment-app.git ```
 
-cd doctor-appointment-app ```
+``` cd doctor-appointment-app ```
 
 2. Install dependencies:
 
@@ -44,9 +44,9 @@ cd doctor-appointment-app ```
 
 3. Set up environment variables: Create a .env file and add your configuration:
 
-``` DB_URI=your_database_uri
+``` DB_URI=your_database_uri ```
 
-JWT_SECRET=your_secret ```
+``` JWT_SECRET=your_secret ```
 
 4. Start the development server:
 
