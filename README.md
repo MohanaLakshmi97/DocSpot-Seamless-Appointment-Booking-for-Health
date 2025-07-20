@@ -2,7 +2,7 @@
 
 A simple and efficient doctor appointment booking system that allows users to book, manage, and track doctor visits easily. This app aims to streamline the process for both patients and healthcare providers.
 
-### 🚀 Features
+## 🚀 Features
 
 * 👨‍⚕️ Doctor & Patient Login
 
@@ -18,7 +18,7 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 * 📱 Responsive UI (Mobile + Web Friendly)
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
@@ -30,35 +30,35 @@ A simple and efficient doctor appointment booking system that allows users to bo
 
 * Deployment: Vercel / Netlify / Heroku / Render
 
-### ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/doctor-appointment-app.git
+git clone ``` https://github.com/your-username/doctor-appointment-app.git
 
-cd doctor-appointment-app
+cd doctor-appointment-app ```
 
 2. Install dependencies:
 
-npm install
+``` npm install ```
 
 3. Set up environment variables: Create a .env file and add your configuration:
 
-DB_URI=your_database_uri
+``` DB_URI=your_database_uri
 
-JWT_SECRET=your_secret
+JWT_SECRET=your_secret ```
 
 4. Start the development server:
 
-npm start
+``` npm start ```
 
-### 🧪 Testing
+## 🧪 Testing
 
 Run tests using:
 
-npm test
+``` npm test ```
 
-### 📌 Future Enhancements
+## 📌 Future Enhancements
 
 * 👨‍⚕️ Doctor Profile Management
 
@@ -70,7 +70,7 @@ npm test
 
 * 🗣️ Multi-Language Support
 
-### 🐞 Known Issues
+## 🐞 Known Issues
 
 * No calendar sync yet.
 
@@ -78,14 +78,14 @@ npm test
 
 * UI glitches on very small screen sizes.
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
 Please fork the repository and submit a pull request.
 
 
-### 📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
